@@ -1,3 +1,7 @@
+body{
+	background: #083240;
+}
+
 section{
 	width: 800px;
 	height: 600px;
@@ -14,6 +18,7 @@ h1, h2{
 	background-color: cadetblue;
 	border: #999 2px solid;
 	font-size: 22px;
+	color: white;
 }
 .objects{
 	display: inline-block;
